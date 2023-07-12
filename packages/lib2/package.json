@@ -2,7 +2,7 @@
   "name": "test-lib2",
   "version": "0.0.11",
   "type": "commonjs",
-  "peerDependencies": {
+  "dependencies": {
     "test-lib1": "*",
     "test-lib3": "*"
   }
