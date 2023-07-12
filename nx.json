@@ -41,7 +41,7 @@
     "libsDir": "packages"
   },
   "pluginsConfig": {
-    "@nx/ts": {
+    "@nx/js": {
       "analyzeSourceFiles": true
     }
   }
