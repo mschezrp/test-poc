@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "test-lib1": ["packages/lib1/src/index.ts"],
-      "test-lib2": ["packages/lib2/src/index.ts"]
+      "test-lib2": ["packages/lib2/src/index.ts"],
+      "test-lib3": ["packages/lib3/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
