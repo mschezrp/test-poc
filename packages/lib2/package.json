@@ -1,5 +1,9 @@
 {
   "name": "test-lib2",
   "version": "0.0.9",
-  "type": "commonjs"
+  "type": "commonjs",
+  "peerDependencies": {
+    "test-lib1": "^0.0.15",
+    "test-lib3": "^0.0.3"
+  }
 }
