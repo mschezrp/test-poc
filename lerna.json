@@ -1,4 +1,10 @@
 {
+  "command": {
+    "version": {
+      "exact": true,
+      "message": "chore(release): publish packages"
+    }
+  },
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "version": "independent"
 }
