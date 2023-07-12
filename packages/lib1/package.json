@@ -1,8 +1,5 @@
 {
   "name": "test-lib1",
   "version": "0.0.6",
-  "type": "commonjs",
-  "publishConfig": {
-    "directory": "../../dist/packages/lib1"
-  }
+  "type": "commonjs"
 }
