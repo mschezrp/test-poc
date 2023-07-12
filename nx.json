@@ -39,5 +39,10 @@
   "workspaceLayout": {
     "appsDir": "packages",
     "libsDir": "packages"
+  },
+  "pluginsConfig": {
+    "@nx/ts": {
+      "analyzeSourceFiles": true
+    }
   }
 }
