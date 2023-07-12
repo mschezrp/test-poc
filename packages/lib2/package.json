@@ -1,9 +1,9 @@
 {
   "name": "test-lib2",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "type": "commonjs",
   "dependencies": {
-    "test-lib1": "^0.0.18",
+    "test-lib1": "^0.0.19",
     "test-lib3": "*"
   }
 }
