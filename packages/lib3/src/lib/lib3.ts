@@ -1,3 +1,3 @@
 export function lib3(): string {
-  return 'lib3.4';
+  return 'lib3.PLUS';
 }
