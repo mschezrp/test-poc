@@ -3,6 +3,6 @@
   "version": "0.0.2",
   "type": "commonjs",
   "dependencies": {
-    "test-lib5": "^0.0.3"
+    "test-lib5": "~0.0.3"
   }
 }
