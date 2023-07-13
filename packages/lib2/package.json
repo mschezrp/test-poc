@@ -1,6 +1,6 @@
 {
   "name": "test-lib2",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "type": "commonjs",
   "dependencies": {
     "test-lib1": "~0.0.20",
