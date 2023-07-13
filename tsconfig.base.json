@@ -19,7 +19,8 @@
       "test-lib2": ["packages/lib2/src/index.ts"],
       "test-lib3": ["packages/lib3/src/index.ts"],
       "test-lib4": ["packages/lib4/src/index.ts"],
-      "test-lib5": ["packages/lib5/src/index.ts"]
+      "test-lib5": ["packages/lib5/src/index.ts"],
+      "test-lib6": ["packages/lib6/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
