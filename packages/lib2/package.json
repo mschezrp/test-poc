@@ -3,7 +3,7 @@
   "version": "0.0.21",
   "type": "commonjs",
   "dependencies": {
-    "test-lib1": "0.0.20",
+    "test-lib1": "~0.0.20",
     "test-lib3": "^0.1.0"
   }
 }
